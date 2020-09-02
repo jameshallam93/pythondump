@@ -1,1 +1,1 @@
-Various iterations of the classic tic tac toe game, some operating directly from the terminal, others taking advantage of Tkinter GUI. 
+A couple of iterations of the classic tic tac toe game, one operating directly from the terminal and including basic Artificial intelligence for the computers move, the taking advantage of Tkinter GUI but lacking the AI
