@@ -1,0 +1,1 @@
+A text based monster fighting game designed to make used of classes - currently broken at the monster creation stage, but working fine if this section is removed - need to look at flow control, should be a simple fix
